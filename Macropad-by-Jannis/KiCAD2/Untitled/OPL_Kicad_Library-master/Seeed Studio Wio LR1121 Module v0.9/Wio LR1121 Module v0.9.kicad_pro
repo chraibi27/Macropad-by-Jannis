@@ -101,7 +101,6 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
-        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -440,7 +439,6 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
-      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -451,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Macropad_by_Jannis.kicad_pro",
+    "filename": "Wio LR1121 Module v0.9.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -567,7 +565,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "位号"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -597,7 +595,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -611,7 +609,23 @@
   },
   "sheets": [
     [
-      "54b2d6a3-e486-4144-9a61-e2730b8c2abf",
+      "c663beed-38b4-4662-b52a-52aeb702edcc",
+      "01 Table of Contents"
+    ],
+    [
+      "8d85316e-8a7a-44ff-b1a9-f06a445a668f",
+      "02 Block Diagram"
+    ],
+    [
+      "4a325046-8616-43fd-a3e0-0e3798b4ab7e",
+      "03 Power IN & MCU GPIOs"
+    ],
+    [
+      "f0c4160b-c832-4c21-9bcd-419556e81e53",
+      "04 PIN OUT"
+    ],
+    [
+      "aec1c255-9330-4c8b-9391-79ab531f92ea",
       "Root"
     ]
   ],
