@@ -14,6 +14,7 @@ The schematic was designed in **KiCad** and includes all core components of the 
 Based on the schematic, the PCB was carefully laid out to ensure reliable routing, clean signal paths, and easy assembly.  
 Special attention was given to switch alignment, component placement, and USB accessibility for the XIAO RP2040.  
 <img width="497" height="667" alt="Screenshot 2025-12-13 at 21 12 02" src="https://github.com/user-attachments/assets/3abeb14a-a4a1-47e7-8444-d8cd4df8d9e2" />
+<img width="565" height="628" alt="PCB_with_switches" src="https://github.com/user-attachments/assets/ec847382-1bd6-4a73-a5ee-d91fdea33457" />
 
 ## CAD
 The enclosure for this macropad was designed in **Autodesk Fusion 360**.
@@ -26,8 +27,8 @@ The bottom case includes mounting holes for screws and heat-set inserts, making 
 
 All CAD files are intended for **3D printing** and can be modified to fit different layouts or components if needed.
 <img width="1239" height="580" alt="Screenshot 2025-12-13 at 21 14 16" src="https://github.com/user-attachments/assets/eba230bb-aa71-4162-b73b-2b36e414080c" />
-
-
+<img width="506" height="574" alt="Screenshot 2025-12-14 at 14 20 53" src="https://github.com/user-attachments/assets/eacb942b-e077-4cc3-bf3f-48f829ed7dc0" />
+<img width="662" height="650" alt="Screenshot 2025-12-14 at 14 21 29" src="https://github.com/user-attachments/assets/569ed328-134f-46ba-86eb-d970a5d33e0c" />
 
 ## BOM
 | Item | Quantity | Description |
